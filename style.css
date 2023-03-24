@@ -1137,7 +1137,7 @@ color: #fff;}
 /*Start Recipes*/
 .recipes .image {
     height: 350px;
-    background: url("../img/recieps.png") fixed center;
+    background: url("img/recieps.png") fixed center;
     background-size: cover;
 }
 
@@ -1235,7 +1235,7 @@ color: #fff;}
 
 /*Start fixed-image*/
 .fixed-image {
-    background: url("../img/bredief.png") fixed center;
+    background: url("img/bredief.png") fixed center;
     background-size: cover;
     height: 400px;
 }
